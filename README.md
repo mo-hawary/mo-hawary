@@ -16,7 +16,7 @@ I work across product engineering, mobile apps, backend systems, QA automation, 
 ## Current Public Work
 
 - [Hawary Workflow Skills](https://github.com/mo-hawary/hawary-workflow-skills) - reusable agent skills for Codex, Claude, and AI coding agents.
-- [mohawary.com](https://github.com/mo-hawary/mohawary.com) - GitHub Pages redirect shim for my canonical website.
+- [mohawary.com](https://mohawary.com/) - my canonical website and public developer profile.
 
 ## Links
 
