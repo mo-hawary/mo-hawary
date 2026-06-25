@@ -98,6 +98,7 @@ Idea
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square" />
 </p>
 
 ### Data & Persistence
@@ -121,12 +122,16 @@ Idea
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-### QA, Review & Engineering Workflows
+### Architecture, QA & Engineering Workflows
 
 <p>
+  <img src="https://img.shields.io/badge/Software_Architecture-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design_Patterns-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVC-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile-444444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Code_Review-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Refactoring-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture_Reviews-333333?style=flat-square" />
   <img src="https://img.shields.io/badge/AI_Coding_Agents-444444?style=flat-square" />
   <img src="https://img.shields.io/badge/Codex-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square" />
@@ -146,13 +151,82 @@ Idea
 
 ---
 
+## Experience Snapshot
+
+### Senior Software Engineer — EButler / ENABLE Tech
+
+**Nov 2021 - Jan 2026 · Remote · Full-time**
+
+Worked on customer engagement products for loyalty, automated marketing, and direct commerce across multi-market, high-volume product environments.
+
+### Senior Frontend Developer — Baeynh
+
+**Dec 2022 - Jun 2023 · Remote · Part-time**
+
+Contributed frontend engineering, TypeScript delivery, code review, and product iteration support.
+
+### Senior Frontend Engineer — Bulx
+
+**May 2021 - Jun 2022 · Remote · Part-time**
+
+Worked on frontend product delivery, UI implementation, and review workflows.
+
+### Freelance Web Developer
+
+**Dec 2018 - Dec 2021 · Full-time**
+
+Built web products and client-facing systems using MVC patterns, agile delivery habits, and practical full-stack workflows.
+
+### Senior Frontend Developer — Technic
+
+**Sep 2020 - May 2021 · Part-time**
+
+Helped set up project structure and infrastructure foundations during the company's launch phase.
+
+---
+
 ## Education & Foundations
 
-- **Information Technology Institute graduate**
-- **Udacity Nanodegree holder since 2020**
-- 12+ years of practical software engineering experience
-- Former instructor and team lead experience
-- Strong foundation in product delivery, architecture, databases, and cross-platform development
+### Information Technology Institute (ITI)
+
+**Postgraduate Degree · Frontend Diploma · Grade: A+**
+
+### Udacity
+
+**Nanodegree · Full Stack Development · 2020 · Grade: Excellent**
+
+### Alexandria University
+
+**Bachelor of Law - LLB · Law English Department · 2009 - 2013**
+
+The law background still helps: structured thinking, argumentation, contracts, edge cases, and the habit of reading details before making decisions.
+
+---
+
+## Selected Certifications
+
+### AI, APIs & Automation
+
+- ChatGPT's Operator: Automating Everyday Tasks with AI Agents — LinkedIn, 2025
+- Learning REST APIs — LinkedIn, 2025
+
+### Architecture & Engineering Foundations
+
+- Software Architecture: From Developer to Architect — LinkedIn, 2025
+- Software Architecture Foundations — LinkedIn, 2025
+- Programming Foundations: Design Patterns — LinkedIn, 2024
+- Programming Foundations: Discrete Mathematics — LinkedIn, 2024
+- Programming Foundations: SDKs — LinkedIn, 2024
+- TypeScript Fundamentals — Information Technology Institute, 2021
+- Problem Solving — HackerRank, 2021
+
+### Leadership & Communication
+
+- Inclusive Tech: Leadership and Management — LinkedIn, 2024
+- Moving from Developer to Engineering Manager — LinkedIn, 2024
+- Leadership: Practical Skills — LinkedIn, 2023
+- Effective Technical Communication — LinkedIn, 2023
+- Succeeding as a First-Time Tech Manager — LinkedIn, 2023
 
 ---
 
