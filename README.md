@@ -33,18 +33,18 @@ I care about the fundamentals that survive every stack change: clear thinking, t
 
 ---
 
-## Tech I've Shipped With
+## Tech I Have Shipped With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,astro,vite,tailwind,flutter,dart,nodejs,express,nestjs,python,django,fastapi,postgres,docker,aws,azure,cloudflare,githubactions&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,astro,vite,tailwind,flutter,nodejs,express,nestjs,python,django,fastapi,postgres,docker,aws,azure,cloudflare,githubactions&perline=11" alt="Tech stack icons" />
 </p>
 
-**Frontend:** React · Next.js · Remix · Astro · Vite · Tailwind · TypeScript  
-**Mobile:** Flutter · Dart · React Native  
-**Backend:** Node.js · Express · NestJS · Python · Django · FastAPI · REST APIs  
-**Data:** PostgreSQL · Drizzle ORM · RLS · database design  
-**Cloud & Delivery:** AWS · Azure · Cloudflare · Docker · GitHub Actions  
-**Architecture & Workflows:** MVC · design patterns · code review · refactoring · QA · AI coding agents
+**Frontend engineering:** React · Next.js · Remix · Astro · Vite · Tailwind · TypeScript  
+**Cross-platform mobile development:** Flutter · React Native  
+**Backend engineering:** Node.js · Express · NestJS · Python · Django · FastAPI · REST APIs  
+**Data and persistence:** PostgreSQL · Drizzle ORM · RLS · database design  
+**Cloud and delivery:** AWS · Azure · Cloudflare · Docker · GitHub Actions  
+**Architecture and workflows:** MVC · design patterns · code review · refactoring · QA · AI-assisted engineering workflows
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL_RLS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL RLS" />
@@ -53,24 +53,24 @@ I care about the fundamentals that survive every stack change: clear thinking, t
   <img src="https://img.shields.io/badge/Code_Review-111827?style=flat-square" alt="Code Review" />
   <img src="https://img.shields.io/badge/Refactoring-1F2937?style=flat-square" alt="Refactoring" />
   <img src="https://img.shields.io/badge/Software_Architecture-374151?style=flat-square" alt="Software Architecture" />
-  <img src="https://img.shields.io/badge/AI_Coding_Agents-4B5563?style=flat-square" alt="AI Coding Agents" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Workflows-4B5563?style=flat-square" alt="AI-assisted workflows" />
 </p>
 
 ---
 
 ## What I Bring
 
-### 🎯 Product clarity
+### Product clarity
 
 Turning vague product needs into clear technical decisions, practical scope, and shippable systems.
 
-### ⚙️ Full-stack delivery
+### Full-stack delivery
 
-Building across frontend, mobile, backend, database, infrastructure, QA, and release workflows.
+Building across frontend, cross-platform mobile, backend, database, infrastructure, QA, and release workflows.
 
-### 🤖 AI review loops
+### Review and refactoring workflows
 
-Using AI coding agents carefully with specs, review gates, refactoring discipline, and human judgment.
+Using AI coding tools carefully with specs, review gates, refactoring discipline, and human judgment.
 
 ---
 
@@ -126,11 +126,11 @@ The law background still helps: structured thinking, argumentation, contracts, e
 
 <br/>
 
-- **Senior Software Engineer** — EButler / ENABLE Tech · Nov 2021 - Jan 2026 · Remote · Full-time
-- **Senior Frontend Developer** — Baeynh · Dec 2022 - Jun 2023 · Remote · Part-time
-- **Senior Frontend Engineer** — Bulx · May 2021 - Jun 2022 · Remote · Part-time
-- **Freelance Web Developer** — Independent · Dec 2018 - Dec 2021 · Full-time
-- **Senior Frontend Developer** — Technic · Sep 2020 - May 2021 · Part-time
+- **Senior Software Engineer:** EButler / ENABLE Tech · Nov 2021 - Jan 2026 · Remote · Full-time
+- **Senior Frontend Developer:** Baeynh · Dec 2022 - Jun 2023 · Remote · Part-time
+- **Senior Frontend Engineer:** Bulx · May 2021 - Jun 2022 · Remote · Part-time
+- **Freelance Web Developer:** Independent · Dec 2018 - Dec 2021 · Full-time
+- **Senior Frontend Developer:** Technic · Sep 2020 - May 2021 · Part-time
 
 </details>
 
