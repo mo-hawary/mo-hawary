@@ -1,0 +1,60 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="0.72" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(928 96) rotate(135) scale(260 160)">
+      <stop stop-color="#F59E0B" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(242 290) rotate(-30) scale(260 160)">
+      <stop stop-color="#2563EB" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glowB)"/>
+
+  <g opacity="0.25">
+    <circle cx="1016" cy="78" r="86" stroke="#FFFFFF" stroke-width="1"/>
+    <circle cx="1086" cy="270" r="118" stroke="#FFFFFF" stroke-width="1"/>
+    <circle cx="132" cy="296" r="92" stroke="#FFFFFF" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="76" y="62" width="1048" height="236" rx="28" fill="#0D1117" fill-opacity="0.62" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  </g>
+
+  <text x="600" y="132" text-anchor="middle" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.2">
+    Mohamed ElHawary
+  </text>
+
+  <text x="600" y="177" text-anchor="middle" fill="#FDE68A" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="700">
+    Tech Lead &amp; Full-Stack Engineer
+  </text>
+
+  <text x="600" y="216" text-anchor="middle" fill="#D1D5DB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="600">
+    Shipping SaaS Products · AI Code Review · Refactoring Workflows
+  </text>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700">
+    <rect x="294" y="244" width="150" height="38" rx="19" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <text x="369" y="269" text-anchor="middle" fill="#FDE68A">12+ years</text>
+    <rect x="462" y="244" width="178" height="38" rx="19" fill="#2563EB" fill-opacity="0.16" stroke="#60A5FA" stroke-opacity="0.45"/>
+    <text x="551" y="269" text-anchor="middle" fill="#BFDBFE">Web · Mobile · Backend</text>
+    <rect x="658" y="244" width="248" height="38" rx="19" fill="#111827" fill-opacity="0.74" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="782" y="269" text-anchor="middle" fill="#E5E7EB">Architecture · Cloud · Delivery</text>
+  </g>
+</svg>
