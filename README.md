@@ -1,309 +1,253 @@
-<h1 align="center">Mohamed ElHawary</h1>
-
-<h3 align="center">
-  Tech Lead & Full-Stack Engineer | Shipping SaaS Products | AI Code Review & Refactoring Workflows
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F59E0B,100:2563EB&height=220&section=header&text=Mohamed%20ElHawary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Tech%20Lead%20%26%20Full-Stack%20Engineer%20%7C%20SaaS%20Products%20%7C%20AI%20Code%20Review%20%26%20Refactoring&descAlignY=56&descSize=15" alt="Mohamed ElHawary profile banner" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2600&pause=700&color=F7B955&center=true&vCenter=true&width=1000&lines=12%2B+years+building+startup+products;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+Infrastructure;SaaS+products+from+idea+to+release;AI-assisted+code+review+and+refactoring+workflows;Clear+thinking.+Reliable+systems.+Better+shipping."
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2600&pause=700&color=F59E0B&center=true&vCenter=true&width=1000&lines=12%2B+years+building+startup+products;Web+%7C+Mobile+%7C+Backend+%7C+Infrastructure;AI-assisted+code+review+and+refactoring+workflows;Clear+thinking.+Reliable+systems.+Better+shipping." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://mohawary.com">
-    <img src="https://img.shields.io/badge/Website-mohawary.com-F7B955?style=for-the-badge&labelColor=111111" />
+    <img src="https://img.shields.io/badge/Website-mohawary.com-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/mohawary">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20ElHawary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20ElHawary-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mo-hawary">
+    <img src="https://img.shields.io/badge/GitHub-mo--hawary-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
   </a>
   <a href="mailto:contact@mohawary.com">
-    <img src="https://img.shields.io/badge/Email-contact%40mohawary.com-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-contact%40mohawary.com-374151?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
 </p>
 
----
+<br/>
 
-## About
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>About</h3>
+      <p>
+        Tech lead and full-stack engineer with <strong>12+ years</strong> building startup products across web, mobile, backend, and infrastructure.
+      </p>
+      <p>
+        I turn messy product uncertainty into clear specs, reliable systems, review loops, and shipping habits that hold up under real product pressure.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Current Edge</h3>
+      <ul>
+        <li>SaaS product delivery</li>
+        <li>AI code review workflows</li>
+        <li>Refactoring and architecture reviews</li>
+        <li>Frontend, mobile, backend, and cloud</li>
+        <li>Founder-grade MVP execution</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Tech lead and full-stack engineer with **12+ years** building startup products across web, mobile, backend, and infrastructure.
+## How I Turn Ideas Into Systems
 
-I have seen tech stacks come and go, and companies rise and fall.
-
-What stays is the fundamentals: clear thinking, trust, and good people.
-
-I love architecture because software eventually has to answer: is it a `0` or a `1`?
-
-And when it cannot, that is where the fun begins.
-
-Business and product can be quantum: uncertain, messy, and full of gray areas until engineering turns them into systems.
-
-Chess and songwriting shape how I think: strategy, timing, structure, rhythm, and taste.
-
----
-
-## Engineering Map
-
-I build across the full product lifecycle:
-
-```txt
-Idea
-  -> Product thinking
-  -> Technical planning
-  -> Architecture
-  -> Database design
-  -> Backend APIs
-  -> Web apps
-  -> Mobile apps
-  -> Infrastructure
-  -> QA and release workflows
-  -> AI-assisted review and refactoring
-  -> Maintainable delivery
+```mermaid
+flowchart LR
+  A[Idea] --> B[Product Thinking]
+  B --> C[Specs]
+  C --> D[Architecture]
+  D --> E[Database + APIs]
+  E --> F[Web + Mobile]
+  F --> G[Cloud + QA]
+  G --> H[Review + Refactor]
+  H --> I[Release]
 ```
 
----
+## Tech I Have Shipped With
 
-## Worked Across
-
-### Frontend & Web
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,astro,vite,tailwind,flutter,dart,nodejs,express,nestjs,python,django,fastapi,postgres,docker,aws,azure,cloudflare,githubactions&perline=11" alt="Tech stack icons" />
 </p>
 
-### Mobile
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong><br/>React · Next.js · Remix · Astro · Vite · Tailwind</td>
+    <td align="center" width="25%"><strong>Mobile</strong><br/>Flutter · Dart · React Native</td>
+    <td align="center" width="25%"><strong>Backend</strong><br/>Node.js · Express · NestJS · Django · FastAPI</td>
+    <td align="center" width="25%"><strong>Cloud</strong><br/>AWS · Azure · Cloudflare · Docker · GitHub Actions</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data</strong><br/>PostgreSQL · Drizzle ORM · RLS · database design</td>
+    <td align="center"><strong>Delivery</strong><br/>Code review · QA · release workflows</td>
+    <td align="center"><strong>Architecture</strong><br/>MVC · design patterns · refactoring</td>
+    <td align="center"><strong>AI Workflows</strong><br/>Codex · Claude Code · agent-readable routines</td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL_RLS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL RLS" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=111111" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Code_Review-111827?style=flat-square" alt="Code Review" />
+  <img src="https://img.shields.io/badge/Refactoring-1F2937?style=flat-square" alt="Refactoring" />
+  <img src="https://img.shields.io/badge/Software_Architecture-374151?style=flat-square" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/AI_Coding_Agents-4B5563?style=flat-square" alt="AI Coding Agents" />
 </p>
 
-### Backend & APIs
+## What I Bring
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square" />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Product Clarity</h3>
+      <p>Turning vague product needs into clear technical decisions, practical scope, and shippable systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Full-Stack Delivery</h3>
+      <p>Building across frontend, mobile, backend, database, infrastructure, QA, and release workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Review Loops</h3>
+      <p>Using AI coding agents carefully with specs, review gates, refactoring discipline, and human judgment.</p>
+    </td>
+  </tr>
+</table>
+
+## Featured Public Work
+
+<p align="center">
+  <a href="https://github.com/mo-hawary/hawary-workflow-skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mo-hawary&repo=hawary-workflow-skills&theme=github_dark&hide_border=false&border_color=30363D&title_color=F59E0B&icon_color=F59E0B" alt="Hawary Workflow Skills" />
+  </a>
 </p>
 
-### Data & Persistence
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Database_Design-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/RLS-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-### Cloud, Infrastructure & Delivery
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/R2_Storage-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
-### Architecture, QA & Engineering Workflows
-
-<p>
-  <img src="https://img.shields.io/badge/Software_Architecture-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design_Patterns-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/MVC-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agile-444444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scrum-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code_Review-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Refactoring-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Coding_Agents-444444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square" />
-</p>
-
----
-
-## Core Strengths
-
-- Shipping SaaS products from rough idea to working release
-- Turning vague product needs into clear technical systems
-- Leading full-stack delivery across frontend, mobile, backend, and infrastructure
-- Reviewing and refactoring codebases without losing product momentum
-- Designing practical database models, APIs, admin flows, and operational workflows
-- Using AI coding agents carefully, with specs, review gates, and human judgment
-- Balancing business uncertainty with engineering clarity
-
----
-
-## Experience Snapshot
-
-### Senior Software Engineer — EButler / ENABLE Tech
-
-**Nov 2021 - Jan 2026 · Remote · Full-time**
-
-Worked on customer engagement products for loyalty, automated marketing, and direct commerce across multi-market, high-volume product environments.
-
-### Senior Frontend Developer — Baeynh
-
-**Dec 2022 - Jun 2023 · Remote · Part-time**
-
-Contributed frontend engineering, TypeScript delivery, code review, and product iteration support.
-
-### Senior Frontend Engineer — Bulx
-
-**May 2021 - Jun 2022 · Remote · Part-time**
-
-Worked on frontend product delivery, UI implementation, and review workflows.
-
-### Freelance Web Developer
-
-**Dec 2018 - Dec 2021 · Full-time**
-
-Built web products and client-facing systems using MVC patterns, agile delivery habits, and practical full-stack workflows.
-
-### Senior Frontend Developer — Technic
-
-**Sep 2020 - May 2021 · Part-time**
-
-Helped set up project structure and infrastructure foundations during the company's launch phase.
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mo-hawary/hawary-workflow-skills">Hawary Workflow Skills</a></h3>
+      <p>Reusable workflow skills for AI coding agents, repo audits, code review, dependency checks, and practical engineering automation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://mohawary.com">mohawary.com</a></h3>
+      <p>My canonical website and public developer profile.</p>
+    </td>
+  </tr>
+</table>
 
 ## Education & Foundations
 
-### Information Technology Institute (ITI)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Information Technology Institute</h3>
+      <p><strong>Postgraduate Degree</strong><br/>Frontend Diploma<br/>Grade: A+</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Udacity</h3>
+      <p><strong>Nanodegree</strong><br/>Full Stack Development<br/>2020 · Grade: Excellent</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Alexandria University</h3>
+      <p><strong>Bachelor of Law</strong><br/>LLB, Law English Department<br/>2009 - 2013</p>
+    </td>
+  </tr>
+</table>
 
-**Postgraduate Degree · Frontend Diploma · Grade: A+**
+<details>
+  <summary><strong>Experience Snapshot</strong></summary>
+  <br/>
+  <table>
+    <tr>
+      <td><strong>Senior Software Engineer</strong></td>
+      <td>EButler / ENABLE Tech</td>
+      <td>Nov 2021 - Jan 2026</td>
+      <td>Remote · Full-time</td>
+    </tr>
+    <tr>
+      <td><strong>Senior Frontend Developer</strong></td>
+      <td>Baeynh</td>
+      <td>Dec 2022 - Jun 2023</td>
+      <td>Remote · Part-time</td>
+    </tr>
+    <tr>
+      <td><strong>Senior Frontend Engineer</strong></td>
+      <td>Bulx</td>
+      <td>May 2021 - Jun 2022</td>
+      <td>Remote · Part-time</td>
+    </tr>
+    <tr>
+      <td><strong>Freelance Web Developer</strong></td>
+      <td>Independent</td>
+      <td>Dec 2018 - Dec 2021</td>
+      <td>Full-time</td>
+    </tr>
+    <tr>
+      <td><strong>Senior Frontend Developer</strong></td>
+      <td>Technic</td>
+      <td>Sep 2020 - May 2021</td>
+      <td>Part-time</td>
+    </tr>
+  </table>
+</details>
 
-### Udacity
+<details>
+  <summary><strong>Selected Certifications</strong></summary>
+  <br/>
 
-**Nanodegree · Full Stack Development · 2020 · Grade: Excellent**
+  <h3>AI, APIs & Automation</h3>
+  <ul>
+    <li>ChatGPT's Operator: Automating Everyday Tasks with AI Agents · LinkedIn · 2025</li>
+    <li>Learning REST APIs · LinkedIn · 2025</li>
+  </ul>
 
-### Alexandria University
+  <h3>Architecture & Engineering Foundations</h3>
+  <ul>
+    <li>Software Architecture: From Developer to Architect · LinkedIn · 2025</li>
+    <li>Software Architecture Foundations · LinkedIn · 2025</li>
+    <li>Programming Foundations: Design Patterns · LinkedIn · 2024</li>
+    <li>Programming Foundations: Discrete Mathematics · LinkedIn · 2024</li>
+    <li>Programming Foundations: SDKs · LinkedIn · 2024</li>
+    <li>TypeScript Fundamentals · Information Technology Institute · 2021</li>
+    <li>Problem Solving · HackerRank · 2021</li>
+  </ul>
 
-**Bachelor of Law - LLB · Law English Department · 2009 - 2013**
+  <h3>Leadership & Communication</h3>
+  <ul>
+    <li>Inclusive Tech: Leadership and Management · LinkedIn · 2024</li>
+    <li>Moving from Developer to Engineering Manager · LinkedIn · 2024</li>
+    <li>Leadership: Practical Skills · LinkedIn · 2023</li>
+    <li>Effective Technical Communication · LinkedIn · 2023</li>
+    <li>Succeeding as a First-Time Tech Manager · LinkedIn · 2023</li>
+  </ul>
+</details>
 
-The law background still helps: structured thinking, argumentation, contracts, edge cases, and the habit of reading details before making decisions.
+## How I Think
 
----
+<table>
+  <tr>
+    <td align="center">Product before code</td>
+    <td align="center">Architecture before sprawl</td>
+    <td align="center">Data before features</td>
+  </tr>
+  <tr>
+    <td align="center">Review before regret</td>
+    <td align="center">Small systems before heavy systems</td>
+    <td align="center">Shipping habits before heroic fixes</td>
+  </tr>
+</table>
 
-## Selected Certifications
+<br/>
 
-### AI, APIs & Automation
-
-- ChatGPT's Operator: Automating Everyday Tasks with AI Agents — LinkedIn, 2025
-- Learning REST APIs — LinkedIn, 2025
-
-### Architecture & Engineering Foundations
-
-- Software Architecture: From Developer to Architect — LinkedIn, 2025
-- Software Architecture Foundations — LinkedIn, 2025
-- Programming Foundations: Design Patterns — LinkedIn, 2024
-- Programming Foundations: Discrete Mathematics — LinkedIn, 2024
-- Programming Foundations: SDKs — LinkedIn, 2024
-- TypeScript Fundamentals — Information Technology Institute, 2021
-- Problem Solving — HackerRank, 2021
-
-### Leadership & Communication
-
-- Inclusive Tech: Leadership and Management — LinkedIn, 2024
-- Moving from Developer to Engineering Manager — LinkedIn, 2024
-- Leadership: Practical Skills — LinkedIn, 2023
-- Effective Technical Communication — LinkedIn, 2023
-- Succeeding as a First-Time Tech Manager — LinkedIn, 2023
-
----
-
-## Current Public Work
-
-### [Hawary Workflow Skills](https://github.com/mo-hawary/hawary-workflow-skills)
-
-Reusable workflow skills for AI coding agents, code review, repo audits, dependency checks, and practical engineering automation.
-
-Focus:
-
-- Codex and Claude workflows
-- PR review routines
-- Repo health checks
-- Dependency and security review
-- Local development safety
-- Agent-readable engineering processes
-
----
-
-## Current Build Focus
-
-I am currently focused on small, practical, founder-grade products using modern full-stack infrastructure:
-
-```txt
-Next.js
-TypeScript
-Tailwind
-PostgreSQL
-Drizzle ORM
-Cloudflare Workers
-Cloudflare R2
-AI-assisted review workflows
-Manual-first MVP operations
-```
-
-Recent direction:
-
-- Arabic-first educational marketplace MVP
-- Admin dashboards
-- Product/order flows
-- Manual fulfillment
-- WhatsApp handoff
-- Cloudflare-first lightweight deployment
-- Practical database decisions before over-engineering
-
----
-
-## How I Think About Engineering
-
-```txt
-Product before code.
-Architecture before sprawl.
-Data before features.
-Review before regret.
-Small systems before heavy systems.
-Shipping habits before heroic fixes.
-```
-
-Software is not only about writing code.
-
-It is about knowing what should exist, why it should exist, and how to make it reliable enough for real people.
-
----
-
-## Beyond Code
-
-Chess teaches me strategy.
-
-Songwriting teaches me timing, structure, rhythm, and taste.
-
-Architecture sits somewhere between both.
-
-My dream is simple: a small hut on top of a green mountain, somewhere that looks like the good old Windows XP wallpaper.
-
----
+<p align="center">
+  Chess teaches me strategy. Songwriting teaches me timing, structure, rhythm, and taste.
+  <br/>
+  Architecture sits somewhere between both.
+</p>
 
 <p align="center">
   <strong>Founder-grade engineering for real products, clear systems, and teams that need to ship.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:F59E0B,100:0D1117&height=120&section=footer" alt="Footer wave" />
 </p>
