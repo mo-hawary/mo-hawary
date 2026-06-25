@@ -46,15 +46,15 @@
   </text>
 
   <text x="600" y="216" text-anchor="middle" fill="#D1D5DB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="600">
-    Shipping SaaS Products · AI Code Review · Refactoring Workflows
+    Shipping SaaS Products | AI Code Review | Refactoring Workflows
   </text>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700">
-    <rect x="294" y="244" width="150" height="38" rx="19" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.55"/>
-    <text x="369" y="269" text-anchor="middle" fill="#FDE68A">12+ years</text>
-    <rect x="462" y="244" width="178" height="38" rx="19" fill="#2563EB" fill-opacity="0.16" stroke="#60A5FA" stroke-opacity="0.45"/>
-    <text x="551" y="269" text-anchor="middle" fill="#BFDBFE">Web · Mobile · Backend</text>
-    <rect x="658" y="244" width="248" height="38" rx="19" fill="#111827" fill-opacity="0.74" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <text x="782" y="269" text-anchor="middle" fill="#E5E7EB">Architecture · Cloud · Delivery</text>
+    <rect x="210" y="242" width="160" height="42" rx="21" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <text x="290" y="269" text-anchor="middle" fill="#FDE68A">12+ years</text>
+    <rect x="390" y="242" width="278" height="42" rx="21" fill="#2563EB" fill-opacity="0.16" stroke="#60A5FA" stroke-opacity="0.45"/>
+    <text x="529" y="269" text-anchor="middle" fill="#BFDBFE">Web • Mobile • Backend</text>
+    <rect x="688" y="242" width="302" height="42" rx="21" fill="#111827" fill-opacity="0.74" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="839" y="269" text-anchor="middle" fill="#E5E7EB">Architecture • Cloud • Delivery</text>
   </g>
 </svg>
